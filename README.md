@@ -64,10 +64,11 @@ The regression yielded the following model:
 \[
 V(T) = V(0) \left( 1 + AT + BT^2 \right)
 \]
+
 with coefficients:
-- \( V(0) \approx \text{4.578899430486582} \)
-- \( A \approx \text{0.0002800324245079253} \)
-- \( B \approx \text{-5.81408492749038e-07} \)
+- \( V(0) \approx 4.5789 \)
+- \( A \approx 0.000280 \)
+- \( B \approx -5.814 \times 10^{-7} \)
 
 ![Training data with least squares polynomial fit](figs/train_fit.png)
 
